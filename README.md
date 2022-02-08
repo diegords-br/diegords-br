@@ -2,7 +2,7 @@
 <h2 align="center">A passionate Data Scientist and PhD candidate in Physics from Brazil</h2>
 <h3 align="center">I'm interested in data analysis and machine learning to generate insights and results for business. I am a self-taught person and I value group work. In addition, my academic profile offers several important softskills like good communication and writing skills. </h3>
 
-- 🔭 I’m currently working on **RiskNow.ai**.
+- 🔭 I’m currently working on [RiskNow](https://www.risknow.ai/).
 
 - 👨‍💻 All of my projects are available in this [link](https://github.com/diegords-br?tab=repositories).
 
