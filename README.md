@@ -8,10 +8,7 @@
 
 - 📫 My e-mail address is: **diegorenan071@gmail.com**.
 
-<h3 align="left">Connect with me in my Linkedin profile:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/diego-renan-b414a2140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diego-renan-b414a2140/" height="30" width="40" /></a>
-</p>
+- 🔵 My Linkedin profile: [Diego Renan](https://www.linkedin.com/in/diego-renan-b414a2140/)
 
 <h2 align="left"> My projects:</h2>
 
