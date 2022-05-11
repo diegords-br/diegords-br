@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diego Renan</h1>
 <h2 align="center">A passionate Data Scientist and PhD candidate in Physics from Brazil</h2>
-<h3 align="center">I'm interested in data analysis and machine learning to generate insights and results for business. I am a self-taught person and I value group work. In addition, my academic profile offers several important softskills like good communication and writing skills. </h3>
+
+I'm a Ph.D. candidate in Physics and Data Scientist at Risknow. I have a solid background in data analysis and the creation of machine learning models because of my experience in real estate credit and my current professional certification in machine learning by IBM. My academic profile gives me great experience in solving problems using analytic skills using scientific methodology. Furthermore, my experience as a teacher gives me great habilities in communication and the power of synthesis.
+
+I have large experience in cloud services using Amazon Web Services (AWS) and your tools such as Athena, SageMaker, S3, and QuickSight. I use Python and R as my programming languages. I have experience in the ETL process using SQL language for databases and to manipulate big data I use Pyspark. For the creation of machine learning models, I use Scikit-Learn and for deep learning, I use Keras and Tensor Flow for the creation of Neural networks. For data visualization/dashboards, I use Power BI, Python, and your libraries such as Matplotlib and Seaborn. Furthermore, for code versioning, I use GitLab and GitHub.
 
 - 🔭 I’m currently working on [RiskNow](https://www.risknow.ai/).
 
